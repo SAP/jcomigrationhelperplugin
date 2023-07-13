@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/SAP/jcomigrationhelperplugin.svg?branch=master)](https://travis-ci.org/SAP/jcomigrationhelperplugin)
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP/jcomigrationhelperplugin)](https://api.reuse.software/info/github.com/SAP/jcomigrationhelperplugin)
 
 # JCo Migration Helper Plugin
