@@ -1,0 +1,7 @@
+version = 1
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2015-2023 SAP SE or an SAP affiliate company and JCO Migration Helper Plugin contributors"
+SPDX-License-Identifier = "Apache-2.0"
